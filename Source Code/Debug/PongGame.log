@@ -1,0 +1,19 @@
+﻿  Ball.cpp
+  Field.cpp
+  Font.cpp
+  Game.cpp
+C:\Users\OMEN\source\repos\PongGame\Game.cpp(171,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\OMEN\source\repos\PongGame\Game.cpp(172,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\OMEN\source\repos\PongGame\Game.cpp(185,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\OMEN\source\repos\PongGame\Game.cpp(186,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Image.cpp
+  Instructions.cpp
+  Main.cpp
+  Menu.cpp
+  Music.cpp
+  Paddles.cpp
+  Score.cpp
+  Screen.cpp
+  Text.cpp
+  Generating Code...
+  PongGame.vcxproj -> C:\Users\OMEN\source\repos\PongGame\Debug\PongGame.exe
