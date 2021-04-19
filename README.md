@@ -50,3 +50,5 @@ Pong Game developed with SDL2 library and C++.
 
 ---
 # 5. Licence
+
+GNU General Public License v3.0
