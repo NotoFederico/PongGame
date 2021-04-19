@@ -9,7 +9,7 @@
 ### Download
 | Latest release | Latest development build |
 |----------------|--------------------------|
-| ![Noto](https://img.shields.io/badge/master-v1.0-green.svg)(https://github.com/NotoFederico/PongGame/tree/main) | ![Noto](https://img.shields.io/badge/develop-v1.1+-blue.svg)(Enlace a la version en desarrollo) |
+| [![Noto](https://img.shields.io/badge/master-v1.0-green.svg)](https://github.com/NotoFederico/PongGame/tree/main) | [![Noto](https://img.shields.io/badge/develop-v1.1+-blue.svg)](Enlace a la version en desarrollo) |
 
  <a href="https://drive.google.com/drive/folders/1nUhdGTyS4dusktz63wyBe_o-gAqhHEyF?usp=sharing">Download</a>
  
