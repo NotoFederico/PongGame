@@ -6,13 +6,11 @@
 
 ---
 
-### Download
+### Builds
 | Latest release | Latest development build |
 |----------------|--------------------------|
 | [![Noto](https://img.shields.io/badge/master-v1.0-green.svg)](https://github.com/NotoFederico/PongGame/tree/main) | [![Noto](https://img.shields.io/badge/develop-v1.1+-blue.svg)](https://github.com/NotoFederico/PongGame/tree/dev) |
 
- <a href="https://drive.google.com/drive/folders/1nUhdGTyS4dusktz63wyBe_o-gAqhHEyF?usp=sharing">Download</a>
- 
 ---
 
 # Contents
@@ -32,8 +30,10 @@ Pong Game developed with SDL2 library and C++.
 
 ---
 
-# 2. Downloading the application
+# 2. Download the application
 
+ <a href="https://drive.google.com/drive/folders/1nUhdGTyS4dusktz63wyBe_o-gAqhHEyF?usp=sharing">Download</a>
+ 
 ---
 
 # 3. Building the application
