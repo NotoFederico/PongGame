@@ -26,7 +26,7 @@ Pong Game developed with SDL2 library and C++ for Windows OS.
 
 # 1. Introduction
 
-It was developed with SDL2 library and C++ for Windows OS. 
+Pong Game was developed with SDL2 library and C++ for Windows OS. 
 Pong is a two-dimensional sports game that simulates table tennis
 
 ---
