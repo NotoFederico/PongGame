@@ -45,7 +45,7 @@ The goal is for each player to reach eleven points before the opponent. Points a
 
 # 3. Game Link
 
- Get the portable version of this game through this link: <a href="https://drive.google.com/drive/folders/1nUhdGTyS4dusktz63wyBe_o-gAqhHEyF?usp=sharing">Download</a>
+ Get the portable version of this game through this link --> <a href="https://drive.google.com/drive/folders/1nUhdGTyS4dusktz63wyBe_o-gAqhHEyF?usp=sharing">Download</a>
 
 ---
 
