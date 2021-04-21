@@ -1,6 +1,6 @@
 # Pong Game
 
-Pong Game developed with SDL2 library and C++ for Windows OS.
+Pong Game developed with SDL2 library and C++ for Windows OS in Visual Studio 2019.
 
 ---
 
@@ -26,7 +26,7 @@ Pong Game developed with SDL2 library and C++ for Windows OS.
 
 # 1. Introduction
 
-Pong Game was developed with SDL2 library and C++ for Windows OS. 
+Pong Game developed with SDL2 library and C++ for Windows OS in Visual Studio 2019.
 Pong is a two-dimensional sports game that simulates table tennis
 
 ---
