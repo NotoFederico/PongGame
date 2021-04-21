@@ -51,6 +51,8 @@ The goal is for each player to reach eleven points before the opponent. Points a
 
 # 4. Contributing
 
+Pong Gmae uses the [gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows#gitflow-workflow). If you are implementing a new feature or logic from the original game, please branch off and perform pull requests to ```develop```. If you are fixing a bug for the next release, please branch off and perform pull requests to the correct release branch. ```master``` only contains tagged releases, you should never branch off this.
+
 ---
 # 5. Licence
 
